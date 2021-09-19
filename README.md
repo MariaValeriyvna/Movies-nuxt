@@ -1,5 +1,7 @@
 # mynuxt
 
+You can see it https://movie-app-nuxt-maria.herokuapp.com/
+
 ## Build Setup
 
 ```bash
